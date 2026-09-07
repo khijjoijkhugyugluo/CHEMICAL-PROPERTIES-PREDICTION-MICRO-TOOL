@@ -1,5 +1,5 @@
 streamlit
-coolprpo
+coolprop
 numpy
 pandas
 plotly
